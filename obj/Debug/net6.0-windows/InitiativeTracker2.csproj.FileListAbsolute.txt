@@ -1,0 +1,15 @@
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\InitiativeTracker2.exe
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\InitiativeTracker2.deps.json
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\InitiativeTracker2.runtimeconfig.json
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\InitiativeTracker2.dll
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\ref\InitiativeTracker2.dll
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\bin\Debug\net6.0-windows\InitiativeTracker2.pdb
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.csproj.AssemblyReference.cache
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.AssemblyInfoInputs.cache
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.AssemblyInfo.cs
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.csproj.CoreCompileInputs.cache
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.dll
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\ref\InitiativeTracker2.dll
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.pdb
+C:\Users\Sean\DesktopFolder\Coding\Projects\InitiativeTracker2\obj\Debug\net6.0-windows\InitiativeTracker2.genruntimeconfig.cache
